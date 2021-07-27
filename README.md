@@ -5,11 +5,10 @@
 </p>
 <h4 align="center"> Welcome to my GitHub. If you're here, you may already know that I love snowboarding. In case you didn't... well, now you know. I also love a couple of other things and coding became one of them during the pandemic, when decided to switch my career to programming and graduated Ironhack's Full Stack Web Development Bootcamp.<h4>
   
-- 🔭 I’m currently working on an open-source project called CSI Linux (https://csilinux.com/), which is a Linux distribution for Digital Forensics and Incident Response. I re-designed and developed the website. It was built in MERN Stack and it has a mobile responsive design. Other functionalities are currently being developed and will be added soon.
-- 🌱 I’m currently learning **in-depth styling technologies**
-- 👯 I’m looking to collaborate on **on frontend development**
-- 👨‍💻 All of my projects are available at [https://danieltraci.tech/](https://danieltraci.tech/)
-- 📫 How to reach me **tracidaniel.td@gmail.com**
+- 🔭 I’m currently contributing to an open-source project called CSI Linux (https://csilinux.com/), which is a Linux distribution for Digital Forensics and Incident Response. I re-designed and developed the website. It was built in MERN Stack and it has a mobile responsive design. Other functionalities are currently being developed and will be added soon.
+- 🌱 I’m learning **in-depth styling technologies** and I'm looking to collaborate **on frontend development**
+- 👨‍💻 My projects are available at [https://danieltraci.tech/](https://danieltraci.tech/)
+- 📫 You can reach me @ **tracidaniel.td@gmail.com**
 
 <h3 align="center">Languages and tools</h3>
  <br>
