@@ -19,7 +19,7 @@
 <h1 align="center">Hi, I'm Daniel Traci</h1>
 <h3 align="center">Full Stack (MERN) Developer from Germany</h3>
 
-- 🔭 I’m currently working on [an open-source project called CSI Linux (https://csilinux.com/), which is a Linux distribution for Digital Forensics and Incident Response. I re-designed and developed the website. It was built in MERN Stack and it has a mobile responsive design. Other functionalities are currently being developed and will be added soon.](https://csilinux.com/)
+- 🔭 I’m currently working on an open-source project called CSI Linux (https://csilinux.com/), which is a Linux distribution for Digital Forensics and Incident Response. I re-designed and developed the website. It was built in MERN Stack and it has a mobile responsive design. Other functionalities are currently being developed and will be added soon.
 
 - 🌱 I’m currently learning **in-depth styling technologies**
 
@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/edanieltraci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edanieltraci/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edanieltraci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edanieltraci/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
