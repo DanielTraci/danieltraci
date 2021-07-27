@@ -32,11 +32,8 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>   
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   </p>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltraci&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
  <br>
- <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieltraci&show_icons=true&hide_border=true&theme=radical" alt="danieltraci" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=danieltraci&show_icons=true&locale=en" alt="danieltraci" /></p>
+<p>  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltraci&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</p> 
+<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltraci&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</p>
 
