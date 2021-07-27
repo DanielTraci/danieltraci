@@ -34,8 +34,8 @@
   </p>
   <br>
  <br>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltraci&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltraci&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltraci&show_icons=true&theme=dark&bg_color=22272e&hide_rank)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltraci&layout=compact&theme=dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
 
